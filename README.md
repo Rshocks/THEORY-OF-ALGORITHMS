@@ -1,11 +1,11 @@
 # THEORY-OF-ALGORITHMS 2023
-![image info](./pictures/atu.jpg)
 
+## About this repository
 This is the repository containing my project work done, during Theory of Algorithms module BSc (Hons) in Software Development at Atlantic Technological University (ATU), using jupyter notebook.
 
 This project concerns work on polynomial time which is a measure of the complexity of an algorithm, where the running time increases at most as a polynomial function of the size of the input.
 
-## Interacting/About this repository
+## Interaction with this repository
 - Interaction can be done locally, by cloning this repository to a folder on your local PC, using the command, git clone HTTPS HERE.
 
 - Alternatively interaction can be done locally, by creating/using a ssh key link below, then cloning the repository locally using the same method as above, git clone SSH HERE.
